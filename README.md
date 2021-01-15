@@ -1,4 +1,4 @@
-# JSON_server
+# JSON Server
 
 ## Data API: https://sleepy-depths-16388.herokuapp.com/data
 
