@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "dessert": "Oreo",
+      "nutritionInfo": {
+        "calories": 437,
+        "fat": 18,
+        "carb": 63,
+        "protein": 4
+      },
+      "reset": true,
+      "visible": true
+    },
+    {
+      "id": 2,
+      "dessert": "Nougat",
+      "nutritionInfo": {
+        "calories": 360,
+        "fat": 19,
+        "carb": 50,
+        "protein": 37
+      },
+      "reset": true,
+      "visible": true
+    },
+    {
+      "dessert": "12",
+      "nutritionInfo": {
+        "calories": 1,
+        "fat": 2,
+        "carb": 2,
+        "protein": 1
+      },
+      "reset": false,
+      "visible": true,
+      "id": 3
+    }
+  ]
+}
